@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Credpago - Soluções de pagamentos",
   description: "Soluções de pagamentos",
   icons: [
-    { rel: 'icon', url: '/favicon.webp' },
+    { rel: 'icon', url: '/favicon.png' },
   ],
 };
 

@@ -24,9 +24,9 @@ export default function Home() {
       <SupportSection />
       <Taxes />
       {/* <PricingPlans /> */}
-      <RewardSystem />
+      {/* <RewardSystem />*/}
       {/* <FAQ /> */}
-      <SupportButton />
+      {/* <SupportButton /> */}
       <Footer />
     </main>
   )
