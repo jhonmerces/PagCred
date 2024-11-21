@@ -26,7 +26,7 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <Image src="/logo.webp" alt="Point Pagamentos Logo" width={150} height={50} className="mb-4" />
+            <Image src="/logo.webp" alt="CredPago" width={150} height={50} className="mb-4" />
             <p className="text-sm text-gray-400 mb-4">
               Descubra o futuro dos pagamentos online com Credpago
             </p>
@@ -35,7 +35,7 @@ export function Footer() {
             </p>
           </div>
 
-          <FooterSection title="Point pagamentos">
+          <FooterSection title="CredPago">
             <li><FooterLink href="/parceiros">Parceiros</FooterLink></li>
             <li><FooterLink href="/support">Central de Ajuda</FooterLink></li>
             <li><FooterLink href="/support">Suporte</FooterLink></li>
@@ -70,7 +70,7 @@ export function Footer() {
           </p>
           <div className="flex items-center">
             <span className="text-sm text-gray-400 mr-2">Powered By</span>
-            <Image src="/Ativo 1.Webp" alt="Pitanga Studio Logo" width={100} height={30} />
+            <Image src="/pitangas.Webp" alt="Pitanga Studio Logo" width={100} height={30} />
           </div>
         </div>
       </div>
