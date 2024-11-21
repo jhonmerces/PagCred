@@ -56,15 +56,15 @@ export default function Header() {
         </div>
       </div>
       {mobileMenuOpen && (
-        <div className="md:hidden bg-[#001F3F] py-2">
+        <div className="md:hidden bg-[#109144] py-2">
           <div className="flex flex-col items-center space-y-2">
-            <Link href="/support" className="text-white hover:text-[#3498db] px-3 py-2 rounded-md text-sm font-medium w-full text-center">
+            <Link href="/support" className="text-white hover:text-[#04ba4e] px-3 py-2 rounded-md text-sm font-medium w-full text-center">
               Dúvidas e Suporte
             </Link>
-            <Link href="#" className="text-white hover:text-[#3498db] px-3 py-2 rounded-md text-sm font-medium w-full text-center">
+            <Link href="#" className="text-white hover:text-[#04ba4e] px-3 py-2 rounded-md text-sm font-medium w-full text-center">
               Entrar na conta
             </Link>
-            <Link href="#" className="bg-[#3498db] hover:bg-[#2980b9] text-white px-3 py-2 rounded-md text-sm font-medium w-full text-center">
+            <Link href="#" className="bg-[#04ba4e] hover:bg-[#109144] text-white px-3 py-2 rounded-md text-sm font-medium w-full text-center">
               Criar conta grátis
             </Link>
           </div>
